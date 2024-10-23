@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686205334141",
+    "project_id": "maidc-f08a2",
+    "storage_bucket": "maidc-f08a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686205334141:android:60bd342ff50eb8f3ecf714",
+        "android_client_info": {
+          "package_name": "com.maidc.seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABpBR3KwMHMXL0DCg3ixIQ6WZQxTtLj6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
